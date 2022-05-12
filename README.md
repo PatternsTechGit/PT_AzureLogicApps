@@ -19,7 +19,7 @@ The [Graph API](https://www.kuppingercole.com/blog/kuppinger/azure-active-direct
 
 ## About this exercise
 
-Previously we have already registered an APP in Azure Active Directory.
+Previously we have already registered an App in Azure Active Directory.
 
 ## In this exercise
 
